@@ -1,1 +1,3 @@
-# ![image](https://user-images.githubusercontent.com/36718140/156828795-0c3ecda6-70b1-4432-91e6-a97443e03aa9.png)
+Netflix initial page, with html and css.
+
+![image](https://user-images.githubusercontent.com/36718140/156829315-ceffc224-4416-4018-9323-1d438b9c0d0b.png)
